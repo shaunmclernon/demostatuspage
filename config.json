@@ -1,6 +1,6 @@
 {
-    "footer": "Demo Status page hosted by GitHub, generated with <a href='https://github.com/jayfk/statuspage'>jayfk/statuspage</a>",
+    "footer": "Demo System Status generated with <a href='https://github.com/jayfk/statuspage'>jayfk/statuspage</a>",
     "logo": "https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png",
-    "title": "Demo Status",
+    "title": "System Status",
     "favicon": "https://raw.githubusercontent.com/jayfk/statuspage/master/template/favicon.png"
 }
